@@ -9,6 +9,10 @@ const search = function () {
     console.log(input.value);
   });
 
+  // searchBtn.addEventListener('click', () => {
+  //   console.log(input.value);
+  // });
+
 }
 
 search();
